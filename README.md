@@ -238,4 +238,4 @@ This repository serves as the official landing page for Gerbv. The software is d
 **Get the most recent version of Gerbv today!**
 
 ---
-**Last updated:** 2026-09-13 19:00:18 UTC
+**Last updated:** 2026-09-13 21:49:28 UTC
